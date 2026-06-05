@@ -226,7 +226,7 @@ This repository includes:
 
 
 
-All filtering, merging, and label extraction steps can be reproduced using the Python scripts in the `/scripts` directory.
+All filtering, merging, and label extraction steps can be reproduced using the Python scripts.
 
 
 
